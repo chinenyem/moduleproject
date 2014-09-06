@@ -1,0 +1,98 @@
+body{
+	background-image: url("../images/largeshoes.jpg");
+	background-repeat: no-repeat;
+	
+
+}
+
+h1{
+	color:white;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 27%;
+	font-size: 124px;
+}
+
+h2{
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 0%;
+}
+
+.titleone{
+	margin-left: 1%;
+	color: white;
+	font-size: 45px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+input, button, select, textarea{
+	display: block;
+}
+
+
+#formstyle{
+	margin-left: 15%;
+	}
+
+button{
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	border: none;
+	border-radius: 6%;
+	font-size: 32px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+input{
+	background-color: rgba(0,0,0,0.5);
+	border: none;
+	width: 273px;
+	height: 73px;
+	margin-top: 6%;	
+	font-size: 32px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+textarea{
+
+	width: 273px;
+	background-color: rgba(0,0,0,0.5);
+	border: none;
+	font-size: 32px;
+	font-family: 'Source Sans Pro', sans-serif;
+	height: 226px;
+	margin-bottom: 2%;
+
+}
+
+
+.repeatform{
+	width: 273px;
+	background-color: rgba(0,0,0,0.5);
+	border: none;
+
+}
+
+.top{
+	background-color: red;
+	background: rgba(0,0,0,0.5);
+	margin-top: 18%;
+	width: 71%;
+	height: 219px;
+	margin-left: 16%;
+	-webkit-border-top-left-radius: 66px;
+	-webkit-border-top-right-radius: 122px;
+	-webkit-border-bottom-right-radius: 43px;
+	-webkit-border-bottom-left-radius: 121px;
+	-moz-border-radius-topleft: 66px;
+	-moz-border-radius-topright: 122px;
+	-moz-border-radius-bottomright: 43px;
+	-moz-border-radius-bottomleft: 121px;
+	border-top-left-radius: 66px;
+	border-top-right-radius: 122px;
+	border-bottom-right-radius: 43px;
+	border-bottom-left-radius: 121px;
+}
